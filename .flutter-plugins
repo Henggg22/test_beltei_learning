@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+firebase_core=/Users/wikiwoo/.pub-cache/hosted/pub.dev/firebase_core-3.12.1/
+firebase_core_web=/Users/wikiwoo/.pub-cache/hosted/pub.dev/firebase_core_web-2.21.1/
+firebase_messaging=/Users/wikiwoo/.pub-cache/hosted/pub.dev/firebase_messaging-15.2.4/
+firebase_messaging_web=/Users/wikiwoo/.pub-cache/hosted/pub.dev/firebase_messaging_web-3.10.4/
+flutter_local_notifications=/Users/wikiwoo/.pub-cache/hosted/pub.dev/flutter_local_notifications-18.0.1/
+flutter_local_notifications_linux=/Users/wikiwoo/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-5.0.0/
+path_provider=/Users/wikiwoo/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/Users/wikiwoo/.pub-cache/hosted/pub.dev/path_provider_android-2.2.15/
+path_provider_foundation=/Users/wikiwoo/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/Users/wikiwoo/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/wikiwoo/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+shared_preferences=/Users/wikiwoo/.pub-cache/hosted/pub.dev/shared_preferences-2.5.2/
+shared_preferences_android=/Users/wikiwoo/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.7/
+shared_preferences_foundation=/Users/wikiwoo/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+shared_preferences_linux=/Users/wikiwoo/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+shared_preferences_web=/Users/wikiwoo/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+shared_preferences_windows=/Users/wikiwoo/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
